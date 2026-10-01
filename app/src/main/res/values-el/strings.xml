@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FancyScreen</string>
+    <string name="email_label">Ηλεκτρονικό ταχυδρομείο</string>
+    <string name="extension_label">Εσωτερικός αριθμός</string>
+    <string name="department_label">Τμήμα</string>
+    <string name="supervisor_label">Προϊστάμενος</string>
+    <string name="direct_reports_label">Άμεσοι υφιστάμενοι</string>
+    <string name="employee_name">Michelle Townsend</string>
+    <string name="employee_email">mt@ourcompany.com</string>
+    <string name="extension_number">2253</string>
+    <string name="department_name">Σχεδιασμός</string>
+    <string name="supervisor_name">Gail Davers</string>
+</resources>
